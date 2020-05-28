@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css selectors</title>
+    <style type="text/css">
+        body {font-family: tahoma;}
+        th{text-transform: uppercase; color: #836fd3;} 
+        p{padding: 5px; line-height: 1em;}
+        a{color: #ff6666;}   
+    </style>
+</head>
+<body>
+     <h1>css selectores</h1>
+     <p>hay muchos tipos diferentes de celectores css que le permitan las reglas a elementos especificos en un documento html</p>
+     <p>los selectores css distingen entre mayusculas y minusculas, por lo que deben coincidir exactamente con los nombres y los valores de 
+         atributo
+     </p>
+     <table border="3">tipos de selectores
+         <caption ="top"> tipos de elementos</caption>
+             <thead>
+                 <tr>
+                     <th>selector</th> <th>siginificado</th> <th>ejemplo</th>
+                 </tr>
+             </thead>
+             <tbody>
+                 <tr>
+                     <th>universal selector</th>
+                     <td>se aplica a todos los elementos del documento</td>
+                     <td> <a>* {}</a>se dirige a todos los elementos de la pagina</td>
+                 </tr>
+                 <tr>
+                     <th>type selector</th>
+                     <td>coincide con los nombres de lementos</td>
+                     <td> <a>h1, h2, h3 {}</a>corresponde a los elementos &lt;h1&lt; &lt;h1&lt;  &lt;h3&lt;</td>
+                 </tr>
+                 <tr>
+                     <th>class selector</th>
+                     <td>coincide con un elementos cuyo atributo de clase tiene un valor que corresponda
+                         con el especificado despues del simbolo de punto ","
+                     </td>
+                     <td><a>. nota {}</a>se dirige a cualquier elemento cuyo atributos de clase tenga un valor de nota</td>
+                 </tr>
+                 <tr>
+                     <th>Id selector</th>
+                     <td>coincide con un elemento cuyo ID atributo tiene un valor que corresponda con el especifivado despues del simbolo
+                         de bash "#"
+                     </td>
+                     <td><a>#introduccion {}</a>se dirige al elemento cuyo atributo ID tiene un valor de introduction</td>
+                 </tr>
+             </tbody>
+     </table>
+</body>
+</html>
