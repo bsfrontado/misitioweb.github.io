@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>opacity</title>
+    <style type="text/css">
+       div{ width: 100px;
+            height: 100px;
+            margin: 40px;
+            display: inline-block;
+            background-color: #ee3e80;}
+         p{ width: 100px;
+            height: 100px;
+            position: relative;
+            top: 20px;
+            left: 20px;
+            margin: 20px;}
+        p.one{ background-color:rbg(0,0,0); opacity:0,5;}
+        p.two{ background-color:rbg(0,0,0); background-color:rgba(0,0,0,0,5);}
+        p.three, p.four { background-color:white; color:black;width: 600px;}    
+    </style>
+</head>
+<body>
+    <div><p class="one"></p></div>
+    <div><p class="two"></p></div>
+    <p class="three">css3 precenta la propiedad opacity que le permite especificar la opacidad de un elemento 
+        y cualquier de sus elementos secundarios es 50% de opacidad y 0,15 es 15% de opacidad.</p>
+    <p class="four">la propiedad css3 rgba pero agrega un cuarto valor para indicar la opacidad. este valor se conoce
+        como el valor alfa y es un numero entre 0,0 y 1,0 ( por lo que un valor de 0,5 es 50%de la opacidad y 0,15 es 15%
+        de opacidad). el valor rgba solo afecta al elemento en el que se aplica( no a los elementos secundarios).</p>
+</body>
+</html>
