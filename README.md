@@ -18,8 +18,8 @@ sabes como clonar un repositorio
 podemos agregar un nuevo repositorio o actualizarlo
 
 1.accedemos para crear con comandos git
--realizamos valisaciones y subimos
--ajustamos cambios
+2.realizamos valisaciones y subimos
+3.ajustamos cambios
 
 ***la difucion***
 
@@ -39,6 +39,6 @@ podemos ver otro enlace aqui
 
 [enlace](https://bsfrontado.github.io/misitioweb.github.io/actividades/desarrollodeunidad1.html)
 
-[Texto alternativo](C:\Users\brayan\Documents\github\imagenes/x.jpg)
+[Texto alternativo](imagenes/x.jpg)
 
 > Por que la clave del exito es perseverar. -Tad Marburg
