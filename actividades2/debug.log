@@ -1,0 +1,5 @@
+[0601/184844.123:ERROR:process_reader_win.cc(188)] ResumeThread: El parámetro no es correcto. (0x57)
+[0601/184844.126:ERROR:process_reader_win.cc(123)] NtOpenThread: Se ha especificado un identificador de cliente no válido. (0xc000000b)
+[0601/184844.152:ERROR:process_memory_win.cc(73)] ReadMemory at 0x8fbc8b62c0 of 16 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0601/184844.171:ERROR:exception_snapshot_win.cc(195)] EXCEPTION_POINTERS read failed
+[0601/184844.171:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
