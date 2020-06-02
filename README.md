@@ -8,5 +8,6 @@ Si deseas hacer una copia de proyecto para realizacion de ajustes es necesario
 seguir estas instrucciones
 
 ***recoleccion de informacion***
-@github/support
+
+[Texto del enlace aquí](URL "https://es.wikipedia.org/wiki/Markdown")
 > Por que la clave del exito es perseverar. -Tad Marburg
