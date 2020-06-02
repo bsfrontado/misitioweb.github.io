@@ -27,13 +27,13 @@ asi es como nos puede quedar un repositosio con sus actualizaciones
 
 [documentos que hay que ver](https://bsfrontado.github.io/misitioweb.github.io/)
 
-***enlaces***
+***enlaces***:file_folder:
 
 podemos ver los resultados de cada actualizacion aqui
 
 [Enlace](https://bsfrontado.github.io/misitioweb.github.io/actividades2/page_peg.html)
 
-***enlaces***
+***enlaces***:open_file_folder:
 
 podemos ver otro enlace aqui
 
