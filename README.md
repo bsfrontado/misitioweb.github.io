@@ -9,5 +9,6 @@ seguir estas instrucciones
 
 ***recoleccion de informacion***
 
+|______________|
 [documentos que hay que ver](https://bsfrontado.github.io/misitioweb.github.io/)
 > Por que la clave del exito es perseverar. -Tad Marburg
