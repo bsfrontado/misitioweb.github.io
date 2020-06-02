@@ -21,7 +21,7 @@ podemos agregar un nuevo repositorio o actualizarlo
 2.realizamos valisaciones y subimos
 3.ajustamos cambios
 
-***la difucion***
+***la difucion***:map:
 
 asi es como nos puede quedar un repositosio con sus actualizaciones
 
@@ -39,6 +39,9 @@ podemos ver otro enlace aqui
 
 [enlace](https://bsfrontado.github.io/misitioweb.github.io/actividades/desarrollodeunidad1.html)
 
-[Texto alternativo](imagenes/x.jpg)
+***inicio de creacion de repositorio***:milky_way:
+
+[imagen de inicio](imagenes/x.jpg)
+
 
 > Por que la clave del exito es perseverar. -Tad Marburg
