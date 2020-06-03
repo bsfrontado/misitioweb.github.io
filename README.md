@@ -17,9 +17,9 @@ sabes como clonar un repositorio
 
 podemos agregar un nuevo repositorio o actualizarlo
 
-1.accedemos para crear con comandos git
-*realizamos valisaciones y subimos
-*ajustamos cambios
+1. accedemos para crear con comandos git
+  - realizamos valisaciones y subimos
+  - ajustamos cambios
 
 ***la difusion***:map:
 
